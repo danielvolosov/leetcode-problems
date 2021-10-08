@@ -2,7 +2,7 @@ package group_anagrams;
 
 import java.util.*;
 
-public class GroupAnagrams {
+public class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
 
         Map<String, List> result = new HashMap<>();
