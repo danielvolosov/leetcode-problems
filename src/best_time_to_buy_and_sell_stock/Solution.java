@@ -1,8 +1,4 @@
-package best_time_to_buy_and_sell_stock_i;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package best_time_to_buy_and_sell_stock;
 
 public class Solution {
     public int maxProfit(int[] prices) {
